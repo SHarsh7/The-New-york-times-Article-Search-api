@@ -20,7 +20,7 @@
 
 <img src="./Images/Overview.gif">
 
-#### A new thing which I have learned from this project is that button containing arrow up sign which helps user navigate back to top to achieve this use one can use following code
+#### A new thing which I have learned from this project is that button containing arrow up sign which helps user navigate back to the top to achieve this one can use code mentioned below
 
 <img src="./Images/scroll top html.png" >
 <img src="./Images/scroll top js.png" >
